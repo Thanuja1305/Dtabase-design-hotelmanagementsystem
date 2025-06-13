@@ -64,18 +64,7 @@ CREATE TABLE Feedback (
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+-- DATA INSERTION--
 INSERT INTO Hotel (name, city, manager_id, num_rooms, star_rating) VALUES
 ('Grand Hyatt', 'New York', 1, 200, 5),
 ('Marriott', 'Los Angeles', 2, 150, 4);
